@@ -84,7 +84,7 @@ const Hero = () => {
               delaySpeed={2000}
             />
           </h2>
-          <p className="text-md text-gray-400 mb-6 max-w-md">
+          <p className="text-md text-slate-200 mb-6 max-w-md">
             Building high-performance web experiences that are modern, secure,
             and delightful. Always striving to improve and deliver amazing user
             experiences.
